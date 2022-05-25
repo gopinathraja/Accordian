@@ -1,0 +1,16 @@
+.Accordian {
+  background: rgb(172, 171, 219);
+  border-radius: 5px;
+  text-align: center;
+}
+.ActiveClass {
+  display: block;
+}
+.NonActiveClass {
+  display: none;
+}
+button {
+  width: 100%;
+  background: rgb(0, 98, 128);
+  color: white;
+}
