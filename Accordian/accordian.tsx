@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import './accordian.css';
 
 export default function Accordian(props) {
-  console.log(props.fun);
   return (
     <div className={' Accordian'}>
       <p>
